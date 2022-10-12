@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Juan Pablo, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022🚀</div>  
+### <div align="center">I'm Juan Pablo, a full-time full-stack freelance developer 👨‍💻 working remotely🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/jpablo-morales/)  
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
